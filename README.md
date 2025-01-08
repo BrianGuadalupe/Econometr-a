@@ -37,7 +37,7 @@ El análisis consistió en:
 ## Estructura del Repositorio
 
 - `Trabajo_Final.pdf`: Informe académico completo que incluye descripción, análisis y resultados.
-- `src/`: Código fuente en R utilizado para el análisis.
+- `Código_R_Trabajo_final.R`: Código fuente en R utilizado para el análisis.
 - `plots/`: Visualizaciones generadas durante el análisis.
 - `README.md`: Este archivo explicativo.
 
