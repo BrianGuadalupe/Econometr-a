@@ -38,7 +38,6 @@ El análisis consistió en:
 
 - `Trabajo_Final.pdf`: Informe académico completo que incluye descripción, análisis y resultados.
 - `Código_R_Trabajo_final.R`: Código fuente en R utilizado para el análisis.
-- `plots/`: Visualizaciones generadas durante el análisis.
 - `README.md`: Este archivo explicativo.
 
 ## Herramientas Utilizadas
