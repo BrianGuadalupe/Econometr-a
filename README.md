@@ -1,5 +1,15 @@
 # Econometria
 Este trabajo analiza el conjunto de datos Hitters, que contiene estadísticas de jugadores de béisbol  y sus salarios, para identificar las variables más relevantes en la predicción de los ingresos y  comparar diferentes métodos de modelado.
+
+#* Correcciones: 
+- Preguntas 3 y 4: se debería haber incluido una tabla con los principales resultados (coeficientes, p-valor, R2 ajustado, test F) para comparar entre los dos modelos.
+
+- Pregunta 5: Según veo en R se aplica el método Backward, y se pide el exhaustivo.
+
+- Preguntas 5, 6, 7, 8, 10,11, 12, 13, 14 y 15: los valores del RMSE del trabajo no coinciden con los valores calculados en R.
+
+- Pregunta 10: No se elije lambda por vc.
+
 # Trabajo Final de Econometría para Datos Masivos
 
 Este repositorio contiene el análisis y los resultados del trabajo final desarrollado como parte del **Máster Universitari en Anàlisi de Dades Massives en Economia i Empresa** de la **Universitat de les Illes Balears (UIB)**. El estudio se centra en el análisis y modelado de datos estadísticos de jugadores de béisbol profesional utilizando enfoques econométricos avanzados.
